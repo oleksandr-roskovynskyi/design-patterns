@@ -1,8 +1,8 @@
-#DESIGN PATTERNS
+# DESIGN PATTERNS
 
-###Design patterns are typical solutions to common problems in software design. Each pattern is like a blueprint that you can customize to solve a particular design problem in your code.
+### Design patterns are typical solutions to common problems in software design. Each pattern is like a blueprint that you can customize to solve a particular design problem in your code.
 
-##Creational patterns
+## Creational patterns
 
 These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
 
