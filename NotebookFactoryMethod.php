@@ -11,6 +11,9 @@ abstract class NotebookCreator
     public function createNotebook(string $device): void
     {
         $notebook = $this->factoryNotebook();
+        //.......
+        //.......
+        //.......
         $notebook->createNotebook($device);
     }
 }
